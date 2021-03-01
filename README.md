@@ -1,7 +1,7 @@
 # fakerx
 Library Faker Versi Indonesia, Untuk seeding database. Khusus CodeIgniter4
 
-# INSTALASI 
+# Instalasi : 
 Masukkan semua isi dari masing-masing folder ini kedalam Masing-masing folder aplikasi anda.
 Misal :
 Folder 'Controler' isinya hanya ada 1 file yaitu 'Fakerxc.php, copy file tersebut kedalam folder Controler anda.
